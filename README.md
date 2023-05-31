@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">404 page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://notfoundpage404.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/krishna-pm/404-Not-Found">
       Solution
     </a>
     <span> | </span>
@@ -44,7 +44,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - What was your experience?
 - What have you learned/improved?
 - Your wisdom? :)
-
+You can see my demo by visiting the website https://notfoundpage404.netlify.app/. It will be displayed whenever you encounter a broken or non-existent link on the website.My experience in creating the 404 page was quite interesting. I had the opportunity to dive into HTML and CSS to design a visually appealing and user-friendly error page. It allowed me to enhance my skills in front-end web development.Throughout the process, I learned the importance of error handling and providing a positive user experience even when something goes wrong. I improved my understanding of HTML and CSS, and how to create responsive and visually appealing designs.My wisdom from this project would be to always pay attention to the small details, such as error pages. While they may seem insignificant, they can greatly impact the user's perception of a website. Taking the time to design a helpful and visually appealing 404 page can turn a frustrating experience into a positive one for the user.
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
@@ -52,6 +52,10 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - [React](https://reactjs.org/)
 - [Vue.js](https://vuejs.org/)
 - [Tailwind](https://tailwindcss.com/)
+
+
+-html
+-css
 
 ## Features
 
@@ -68,9 +72,12 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [Node.js](https://nodejs.org/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
+-https://www.w3schools.com/
+-https://stackoverflow.com/
+
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- Website [your-website.com](https://krishnapm.weebly.com/)
+- GitHub [@your-username](https:/{github.com/krishna-pm)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
 
